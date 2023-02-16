@@ -2,5 +2,7 @@ html {
   height: 100%;
   width: 100%;
 background-color: lightgreen;
-  color: red;
+  color: red; 
+  margin: 0 auto;
+  padding: 5px;
 }
